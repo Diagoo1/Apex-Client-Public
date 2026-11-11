@@ -1,7 +1,7 @@
-/Log/
-/debug/
-/screenshot/
+/Client 5730/Log/
+/Client 5730/debug/
+/Client 5730/screenshot/
 *.bak
-*.dmp
 *.log
+*.dmp
 *.tmp
