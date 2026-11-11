@@ -1,0 +1,7 @@
+/Log/
+/debug/
+/screenshot/
+*.bak
+*.dmp
+*.log
+*.tmp

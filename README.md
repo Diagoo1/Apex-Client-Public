@@ -12,3 +12,17 @@ Public Apex 5730 client download.
 - [SHA-256 checksums](https://github.com/Diagoo1/Apex-Client-Public/releases/download/client-5730-20261110-4bbf58d9/SHA256SUMS.txt)
 
 Download **all three parts to the same folder**. Install 7-Zip and extract **Apex-Client-5730.7z.001**. The .002 and .003 volumes are read automatically. Do not use GitHub **Download ZIP**; it does not contain the client.
+
+<!-- editable-client -->
+## Editable client files
+
+The unpacked client is now tracked in the repository root. Install Git and Git LFS, then run:
+
+```powershell
+git lfs install
+git clone https://github.com/Diagoo1/Apex-Client-Public.git
+cd Apex-Client-Public
+git lfs pull
+```
+
+Edit the actual files locally, then use `git add`, `git commit` and `git push`. The large `c3.wdf` and `data.wdf` assets use Git LFS; cloning with Git LFS downloads their real contents. A .wdf container still requires the appropriate client editing tool to edit its internal assets. Release archives remain available above for direct downloads.

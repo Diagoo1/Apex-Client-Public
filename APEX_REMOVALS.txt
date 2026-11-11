@@ -1,0 +1,16 @@
+# Retired monster metadata. Applied only by Apex.ManualPatcher, after safe merging.
+tq-section|ini/monster.dat|RedNemesisTyrant
+tq-section|ini/monster.dat|OxView234
+tq-section|ini/monster.dat|OxView235
+tq-section|ini/monster.dat|OxView236
+tq-section|ini/monster.dat|LabRedDemon
+tq-section|ini/monster.dat|LabPurpleSpirit
+tq-section|ini/monster.dat|LabGoldDragon
+tq-section|ini/monster.dat|LabHoodedWraith
+tq-section|ini/monster.dat|LabArmorWraith
+tq-section|ini/monster.dat|LabThreeHeadWolf
+tq-section|ini/monster.dat|LabIceCreature
+tq-section|ini/monster.dat|LabRedSpider
+tq-section|ini/monster.dat|LabSerpent
+tq-section|ini/monster.dat|HeadlessBoss
+retire-graphics|ini/c3.wdb|862
